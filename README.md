@@ -1,10 +1,10 @@
 # Next Tokyo Assets
 
-This is a collection of assets for Google Cloud Next Tokyo. The assets
+This is a collection of assets for Zenn Hackathon with GCP. The assets
 consists of hands-on materials, tutorial instructions and source codes
 written in Japanese.
 
-これは Google Cloud Next Tokyo で利用されたアセット集です。アセットは日本語で
+これは Zenn Hackathon with GCP.で利用されたアセット集です。アセットは日本語で
 書かれたハンズオン資料、チュートリアル手順、ソースコードなどを含んでいます。
 
 ## Disclaimer / 注意事項
